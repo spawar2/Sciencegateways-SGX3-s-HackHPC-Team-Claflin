@@ -6,7 +6,7 @@ https://hackhpc.github.io/facultyhack-gateways23/teams
 
 Team Member:
 [Pawar Shrikant](https://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-pawar-shrikant), 
-Computer Science,
+[Computer Science](https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science),
 Claflin University, South Carolina, USA.
 
 Team Mentor:
