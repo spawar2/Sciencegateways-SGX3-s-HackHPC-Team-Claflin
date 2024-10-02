@@ -19,7 +19,8 @@ Blog Post: Convolutional Neural Network (CNN) is a specialized neural network fo
 
 Code/Datasets: Python, Image Classification using Convolutional Neural Networks (CNN): https://www.kaggle.com/code/arbazkhan971/image-classification-using-cnn-94-accuracy
 
-Poster: <img width="829" alt="Screenshot 2024-09-17 at 2 42 22 AM" src="https://github.com/user-attachments/assets/e72d87dc-2936-4081-8e95-e33ce2063583">
+Poster: <img width="936" alt="Screenshot 2024-10-02 at 1 50 14 AM" src="https://github.com/user-attachments/assets/21bee23c-682e-431f-9c4a-02438a7f3e02">
+
 
 Curriculum: Attached Data-Science-Syllabus.pdf
 
