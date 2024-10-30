@@ -21,7 +21,7 @@ Code/Datasets: Python, Image Classification using Convolutional Neural Networks 
 
 Poster: <img width="936" alt="Screenshot 2024-10-02 at 1 50 14 AM" src="https://github.com/user-attachments/assets/21bee23c-682e-431f-9c4a-02438a7f3e02">
 
-US Sciencegateways, SGX3's HackHPC, “Adapting High-Performance Computing (HPC) tools in Data Science courses at Claflin University”, October 7-11, 2024, Bozeman, Montana, USA.^^ GitHub, Poster. 
+US Sciencegateways, SGX3's HackHPC, “Adapting High-Performance Computing (HPC) tools in Data Science courses at Claflin University”, October 7-11, 2024, Bozeman, Montana, United States of America (USA).^^ GitHub, Poster. 
 <img width="94" alt="Poster" src="https://github.com/user-attachments/assets/6a22b9c9-132a-4c45-abcb-61c663919082">
 
 https://hackhpc.github.io/facultyhack-gateways23/teams.html
